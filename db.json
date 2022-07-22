@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "courses": [
+    {
+      "image": "https://media.istockphoto.com/id/1333874405/vi/anh/n%C6%B0%E1%BB%9Bc-x%E1%BA%BFp-t%E1%BA%A7ng-tr%C3%AAn-t%C6%B0%E1%BB%9Dng.webp?s=612x612&w=is&k=20&c=r-enPf-n7Qmcodz1rV-Oy8jF6QLYTFvAG0A5DlHL2L0=",
+      "title": "Build Responsive Real-World Websites with HTML and CSS",
+      "author": "Jonas Schmedtmann",
+      "rating": 5,
+      "price": 5,
+      "bestSeller": "on",
+      "buyAmount": 5,
+      "id": 4
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1344037902/vi/anh/react-native-inscription-ch%E1%BB%91ng-l%E1%BA%A1i-m%C3%A1y-t%C3%ADnh-x%C3%A1ch-tay-v%C3%A0-m%C3%A3.webp?s=612x612&w=is&k=20&c=KnYqXIZnb7NExrh1Bmeh5S07NQFhlbtkB0i9liJicqU=",
+      "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "author": "Academind by Maximilian Schwarzmüller",
+      "rating": null,
+      "price": 99,
+      "bestSeller": "on",
+      "buyAmount": 523,
+      "id": 5
+    },
+    {
+      "image": "https://media.istockphoto.com/id/1255928059/vi/anh/n%E1%BB%AF-l%E1%BA%ADp-tr%C3%ACnh-vi%C3%AAn-tr%E1%BA%BB-da-tr%E1%BA%AFng-%C4%91eo-k%C3%ADnh-vi%E1%BA%BFt-m%C3%A3-ch%C6%B0%C6%A1ng-tr%C3%ACnh-tr%C3%AAn-m%C3%A1y-t%C3%ADnh-x%C3%A1ch-tay.webp?s=612x612&w=is&k=20&c=syyURH73uBxhWDpN5gjQJsy92x8vOC_JWsCEMwl_Kn0=",
+      "title": "Build Responsive Real-World Websites with HTML and CSS",
+      "author": "Jonas Schmedtmann",
+      "rating": 3.7,
+      "price": 66,
+      "bestSeller": "on",
+      "buyAmount": 633,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
